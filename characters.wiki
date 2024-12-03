@@ -1,0 +1,33 @@
+==classes==
+assasin
+mage *does not have ranged autos*
+
+bruiser
+berserk
+palladin -maces -sword -
+shapeshifter -
+earthbender
+terisfal:
+* [ ] teleport to flower
+* [ ] sword slice *long cast, big damage* *dashes you backwards*
+mage:
+* [X] ash mage
+* [ ] 3 orbs charge
+* [ ] sword + dash
+* [ ] vortex
+* [ ] hands
+* [ ] utility, lissandra
+shapeshifter:
+* [ ] block
+* [ ] dagger chain
+* [ ] stun grenade 
+* [ ] shoulder slam 
+* [ ] dash 2
+* [ ] tear 1
+bruiser:
+* [ ] shoulder slam 
+* [ ] brazil
+* [ ] shield
+* [ ] stone arm
+* [ ] trump
+* [ ] 
