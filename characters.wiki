@@ -1,12 +1,15 @@
 ==classes==
 assasin
+
 mage *does not have ranged autos*
 
-bruiser
-berserk
-palladin -maces -sword -
-shapeshifter -
-earthbender
+shapeshifter 
+* [ ] Shifts into a worlf
+* [ ] He is an animal hunter like character
+* [ ] Knife and a lasso
+* [ ] Knife and a whip
+* [ ] Firs two attacks are mele knife third is pseudo ranged 
+
 terisfal:
 * [ ] teleport to flower
 * [ ] sword slice *long cast, big damage* *dashes you backwards*
@@ -20,7 +23,9 @@ mage:
 shapeshifter:
 * [ ] block
 * [ ] dagger chain
-* [ ] stun grenade 
+* [ ] stun grenade
+* [ ] smoke grenade
+* [ ] lasso
 * [ ] shoulder slam 
 * [ ] dash 2
 * [ ] tear 1

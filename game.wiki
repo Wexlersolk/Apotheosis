@@ -1,1 +1,8 @@
 ==game desighn ideas==
+* [ ] make all characters bound to the ground (no jumps, leaps into the air, etc)
+* [ ] make all autoattacks mele
+* [ ] there is one map that is mostly flat
+* [ ] The game is taking place in a heaven colosseum of sorts, the characters are bound to the ground by demonic hands
+	  that constantly move. The one who loses is taken down by these hands to hell or alternative. The one who wins is 
+	  unbound and assends into the air
+* [ ] We balance it by adding abilities to control space to the characters, and make them high skill expressive
